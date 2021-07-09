@@ -1,0 +1,3 @@
+termcolor
+requests_ntlm
+requests
